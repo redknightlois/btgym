@@ -32,7 +32,6 @@ setup(name='btgym',
       install_requires=[
             'tensorflow',
             'opencv-python',
-            'gym[atari]',
             'backtrader',
             'pyzmq',
             'matplotlib',
